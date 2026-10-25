@@ -26,6 +26,7 @@ I specialize in building end-to-end solutions, client portals, and complex autom
 | **Workflow & API Automations** | Zapier, Make (Integromat), n8n, Activepieces, Pipedream |
 | **Databases & Data Management** | Airtable, Notion, Xano, Supabase, Google Workspace |
 | **CRM & Business Operations** | HubSpot, ClickUp, Monday.com, Trello |
+
 and many more...
 
 ---
