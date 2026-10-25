@@ -54,5 +54,5 @@ I am available for freelance projects, custom web app development, and workflow 
 
 If you have a project in mind or want to optimize your business operations, feel free to reach out!
 
-- 📬 **Email:** [your-email@example.com](mailto:your-email@example.com)
+- 📬 **Email:** [zaid01ameen@gmail.com](mailto:zaid01ameen@gmail.com)
 - 🐙 **GitHub Portfolio:** [ZaidAmeen](https://github.com/ZaidAmeen)
