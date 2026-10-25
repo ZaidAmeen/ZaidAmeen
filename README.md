@@ -16,15 +16,16 @@ Professionally rooted in **Sales and Business Development**, I combine technical
 
 ---
 
-### 🧰 No-Code & Automation Stack
+### 🧰 Tech Stack & Tools
 
-I specialize in building robust solutions quickly using industry-leading platforms:
+I specialize in building end-to-end solutions, client portals, and complex automation architectures using industry-leading platforms:
 
 | Category | Tools & Platforms |
 | :--- | :--- |
-| **Web Apps & Frontends** | [Softr](https://www.softr.io), [WordPress](https://wordpress.org) |
-| **Workflow Automations** | [Zapier](https://zapier.com), [Make](https://www.make.com), [n8n](https://n8n.io), [Activepieces](https://activepieces.com) |
-| **Databases & Operations** | Airtable, Notion, Google Workspace |
+| **Web Apps & Frontends** | Softr, WordPress, Glide, Webflow, Retool, Bubble |
+| **Workflow & API Automations** | Zapier, Make (Integromat), n8n, Activepieces, Pipedream |
+| **Databases & Data Management** | Airtable, Notion, Xano, Supabase, Google Workspace |
+| **CRM & Business Operations** | HubSpot, ClickUp, Monday.com, Trello |
 
 ---
 
